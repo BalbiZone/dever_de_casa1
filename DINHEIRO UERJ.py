@@ -26,4 +26,4 @@ ced_1 = x // 1
 x = x - (ced_1 * 1)
 
 print('CÉDULAS:\n100rs - {}\n50rs - {}\n20rs - {}\n10rs - {}\n5rs - {}\n2rs - {}\n1rs - {}\n'.format(ced_100, ced_50, ced_20, ced_10, ced_5, ced_2, ced_1))
-print
+
